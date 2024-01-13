@@ -17,6 +17,6 @@ A basic web app that allows users to increment and decrement a counter. Built us
 
 1. Clone the repository:
 
-   ```bash
+  link -> https://github.com/KoushalThakur/Counter
 
    
